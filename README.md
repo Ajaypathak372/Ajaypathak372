@@ -17,4 +17,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaypathak372&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="ajaypathak372" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajaypathak372&show_icons=true&theme=material-palenight&locale=en" alt="ajaypathak372" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajaypathak372&theme=material-palenight&" alt="ajaypathak372" /></p>
