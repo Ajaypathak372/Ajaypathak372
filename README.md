@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ajay Pathak</h1>
-<h3 align="center">I'm an Undergrad Student🎓 pursuing IT. I'm an Automation Tech Enthusiast 💻 😃 passionate about learning multiple tools and technologies. I love integrating multiple technologies and automating them.</h3>
+<h3 align="center">I'm an Undergrad Student🎓 pursuing engineering in IT. I'm an Automation Tech Enthusiast 💻 😃 passionate about learning multiple tools and technologies. I love integrating multiple technologies and automating them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypathak372&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypathak372" /> </p>
 
-- 🔭 I’m currently working on **setting up Infrastructure on AWS using Terraform**
+- 🔭 I’m currently working as **DevOps Intern at Zilingo**
 
 - 🌱 I’m currently learning **DevOps and Cloud Computing**
 <img width="400" height="270" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align=right>
 
 - 📫 How to reach me **ajaypathak372@gmail.com**
 
-- ⚡ Fun fact **I love playing cricket🏏**
+- ⚡ Fun fact **I love playing cricket🏏 and online games🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
