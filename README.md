@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaypathak372&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypathak372" /> </p>
 
-- 🔭 I’m currently working as **DevOps Intern at Zilingo**
+- 🔭 I’m currently working as **DevOps Intern at Blinkit (Zomato)**
 
 - 🌱 I’m currently learning **DevOps and Cloud Computing**
 <img width="400" height="270" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" align=right>
